@@ -18,4 +18,10 @@ Libraries used here
 
 On each refresh of the browser page the game randomly switches between these four different post-processing effects.
 
-<img src='./live-demo-images/demo1.png'>
+<img src="./public/live-demo-images/demo1.png"/>
+
+<img src="./public/live-demo-images/demo2.png"/>
+
+<img src="./public/live-demo-images/demo3.png"/>
+
+<img src="./public/live-demo-images/demo4.png"/>
